@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/properties/:path*", "destination": "/index.html" },
+    { "source": "/broker/:path*", "destination": "/index.html" }
+  ]
+}
